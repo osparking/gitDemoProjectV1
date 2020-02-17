@@ -2,11 +2,16 @@ package gitDemoProjectV1;
 
 import java.util.logging.Logger;
 
+/**
+ *  * @author osparking
+ *
+ */		
 public class ProjectMain {
 
 	public static void main(String[] args) {
-		System.out.println("ì•ˆë…•í•˜ì„¸ìš”?");
-		Logger.getGlobal().info("ë°˜ê°‘ìŠµë‹ˆë‹¤!");
+		System.out.println("ak?");
+		System.out.println(",sd?");
+		Logger.getGlobal().info("ÃÊ¼±Àº ÀÌ»Û »ç¶÷.");
 	}
 
 }
